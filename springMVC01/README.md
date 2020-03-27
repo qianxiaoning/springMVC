@@ -1,6 +1,7 @@
 ### springMVC01
-#### springMVC，mvc模式的web轻量框架
+#### 基于xml方式构建springMVC，jsp页面，controller接收参数，返回json
 ```
+springMVC，mvc模式的web轻量框架
 一种分层架构思想，按职责各司其职。获取参数、响应请求，分离了控制器、模型对象、过滤器等
 c控制器：接收请求，调用业务类，派发页面(@Controller)
 m模型：service，dao，pojo，返回处理结果(@Service)
